@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "J:\\my shit\\!witt-c#!\\calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F8E-A2A3-48D4-8817-94973B866C13}|Calculator\\Calculator.csproj|j:\\my shit\\!witt-c#!\\calculator\\calculator\\prettyconsoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D313F8E-A2A3-48D4-8817-94973B866C13}|Calculator\\Calculator.csproj|solutionrelative:calculator\\prettyconsoleui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D313F8E-A2A3-48D4-8817-94973B866C13}|Calculator\\Calculator.csproj|j:\\my shit\\!witt-c#!\\calculator\\calculator\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D313F8E-A2A3-48D4-8817-94973B866C13}|Calculator\\Calculator.csproj|solutionrelative:calculator\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrettyConsoleUI.cs",
+              "DocumentMoniker": "J:\\my shit\\!witt-c#!\\calculator\\Calculator\\PrettyConsoleUI.cs",
+              "RelativeDocumentMoniker": "Calculator\\PrettyConsoleUI.cs",
+              "ToolTip": "J:\\my shit\\!witt-c#!\\calculator\\Calculator\\PrettyConsoleUI.cs",
+              "RelativeToolTip": "Calculator\\PrettyConsoleUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:35:45.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "J:\\my shit\\!witt-c#!\\calculator\\Calculator\\Controller.cs",
+              "RelativeDocumentMoniker": "Calculator\\Controller.cs",
+              "ToolTip": "J:\\my shit\\!witt-c#!\\calculator\\Calculator\\Controller.cs",
+              "RelativeToolTip": "Calculator\\Controller.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwFgAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:35:45.366Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

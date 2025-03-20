@@ -1,0 +1,30 @@
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\STUDENT.WITT-USER\Documents\GitHubRepos\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
+J:\my shit\!witt-c#!\calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+J:\my shit\!witt-c#!\calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+J:\my shit\!witt-c#!\calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+J:\my shit\!witt-c#!\calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+J:\my shit\!witt-c#!\calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+J:\my shit\!witt-c#!\calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+J:\my shit\!witt-c#!\calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+J:\my shit\!witt-c#!\calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+J:\my shit\!witt-c#!\calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+J:\my shit\!witt-c#!\calculator\Calculator\obj\Debug\net6.0\Calculator.sourcelink.json
+J:\my shit\!witt-c#!\calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+J:\my shit\!witt-c#!\calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+J:\my shit\!witt-c#!\calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+J:\my shit\!witt-c#!\calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+J:\my shit\!witt-c#!\calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll

@@ -1,0 +1,8 @@
+D:\programming\Python Projects\calculator\bin\Debug\calculator.exe.config
+D:\programming\Python Projects\calculator\bin\Debug\calculator.exe
+D:\programming\Python Projects\calculator\bin\Debug\calculator.pdb
+D:\programming\Python Projects\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\programming\Python Projects\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+D:\programming\Python Projects\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\programming\Python Projects\calculator\obj\Debug\calculator.exe
+D:\programming\Python Projects\calculator\obj\Debug\calculator.pdb
